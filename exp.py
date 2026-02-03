@@ -1,5 +1,5 @@
 def train():
-    print("Training ML model...")
+    print("Training updated model...")
 
 if __name__ == "__main__":
     train()
